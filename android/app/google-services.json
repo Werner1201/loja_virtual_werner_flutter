@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "36545622375",
+    "firebase_url": "https://lojaflutterwerner.firebaseio.com",
+    "project_id": "lojaflutterwerner",
+    "storage_bucket": "lojaflutterwerner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36545622375:android:6dbcdddaf111f9d7edffc2",
+        "android_client_info": {
+          "package_name": "br.com.romling.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "36545622375-sm8a1njb9u63ne8s3ls9c2stbd3no1bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARc-pbYU5Zq86NEMaMnWzmy8YyEj_z0y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "36545622375-sm8a1njb9u63ne8s3ls9c2stbd3no1bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
